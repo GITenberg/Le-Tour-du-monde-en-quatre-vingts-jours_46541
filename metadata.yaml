@@ -1,0 +1,47 @@
+_repo: Le-Tour-du-monde-en-quatre-vingts-jours_46541
+contributor:
+  illustrators:
+  - agent_name: Benett, L.
+    gutenberg_agent_id: '43839'
+    url: http://www.gutenberg.org/2009/agents/43839
+  - agent_name: Neuville, Alphonse Marie de
+    aliases:
+    - Neuville, A. de (Alphonse)
+    - Neuville, de
+    - De Neuville, Alphonse Marie
+    birthdate: 1835
+    deathdate: 1885
+    gutenberg_agent_id: '7311'
+    url: http://www.gutenberg.org/2009/agents/7311
+covers:
+- cover_type: archival
+  image_path: 46541/46541-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2014-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46541'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Le Tour du monde en quatre-vingts jours
+url: http://www.gutenberg.org/ebooks/46541
